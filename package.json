@@ -2,6 +2,10 @@
   "name": "beer",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "npm": "6.4.1",
+    "node": "11.2.0"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "bootstrap": "^3.3.7",
